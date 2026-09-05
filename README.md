@@ -1,3 +1,8 @@
+A steel manufacturer wants to monitor production performance, energy efficiency, operating cost, quality, scrap and equipment downtime across plants, furnaces, steel grades and shifts. The objective is to identify underperforming furnaces, excessive energy consumption, production target deviations and cost drivers through an interactive Power BI dashboard.
+
+A steel manufacturer wants to monitor production performance, energy efficiency, operating cost, quality, scrap and equipment downtime across plants, furnaces, steel grades and shifts. The objective is to identify underperforming furnaces, excessive energy consumption, production target deviations and cost drivers through an interactive Power BI dashboard.
+
+
 ## Dashboard Analysis
 
 ### Production Analysis
